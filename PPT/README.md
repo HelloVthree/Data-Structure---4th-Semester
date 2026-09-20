@@ -69,12 +69,3 @@ While all chapters build important foundations, student feedback and exam data s
 3. **Trace Code on Paper:** For trees, graphs, and sorting, manually trace step-by-step state changes before writing code.
 
 ---
-
-## 🤝 Contribution Guide
-
-Feel free to open a Pull Request (PR) if you'd like to contribute:
-* Clean implementations of algorithms in C++, Java, or Python.
-* Additional practice problems or past exam notes.
-* Graphical visualizations or summary diagrams for tough concepts.
-
-Good luck studying! 🚀
