@@ -31,7 +31,6 @@ While all chapters build important foundations, student feedback and exam data s
 * **Why it's tough:** Graphs combine multiple foundational topics (stacks, queues, trees, recursion) and involve complex mathematical algorithms with many edge cases.
 * **Key Topics to Master:**
   * **Graph Traversal:** Depth-First Search (DFS) vs. Breadth-First Search (BFS).
-  * **Minimum Spanning Tree (MST):** Prim’s and Kruskal’s algorithms.
   * **Shortest Path:** Dijkstra’s Algorithm and Topological Sort.
 * **💡 Watch Out For:**
   * Confusing Adjacency Lists with Adjacency Matrices when calculating time complexity.
