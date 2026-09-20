@@ -18,7 +18,7 @@ The Final Exam for this course is **extremely challenging**. Historical data sho
 
 * **[Optional] NeetCode Practice:**
   - If you need additional practice problems beyond the course material, visit [NeetCode](https://neetcode.io/).
-  - Filter and select practice categories directly aligned with the topics/chapters learned in class (e.g., Arrays, Linked Lists, Stacks/Queues, Trees, Graphs, Hash Tables).
+  - Go to Roadmaps, Filter and select practice categories directly aligned with the topics/chapters learned in class (e.g., Arrays, Linked Lists, Stacks/Queues, Trees, Graphs, Hash Tables).
 
 * **LeetCode RNG Tool:**
   - To simulate exam pressure and test unannounced problem types, use the **LeetCode RNG** practice tool included in this folder:
