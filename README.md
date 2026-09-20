@@ -1,6 +1,6 @@
-# Data Structures & Algorithms Course Package
+# Data Structures & Algorithms Repository
 
-Welcome to the **Data Structures & Algorithms** course repository. This package is designed to help you master core computer science concepts, develop efficient problem-solving strategies, and prepare for exams and technical interviews.
+Welcome to the **Data Structures & Algorithms** course repository. This package is designed to help you finding LeetCode Answers based on our material and prepare for final exams and upcomming quiz.
 
 ---
 
@@ -46,21 +46,6 @@ To get the most out of this repository, ensure you have the following tools set 
 2. **Code Editor / IDE:** [VS Code](https://code.visualstudio.com/), CLion, or PyCharm for reviewing and running code files.
 3. **LeetCode Account:** Create a free account at [LeetCode](https://leetcode.com/) to submit and test your solutions against real edge cases.
 4. **Git / File Archiver:** Tools like Git, 7-Zip, or WinRAR to extract and manage this course package.
-
----
-
-## 📁 Repository Structure
-
-```text
-.
-├── README.md               # Main course overview and documentation (this file)
-├── index.html              # Main entry point for the LeetCode Randomizer web tool
-├── src/                    # Source code directory
-│   ├── js/                 # Main JavaScript logic for interactive tools
-│   ├── css/                # Styling and visual presentation files
-│   └── data/               # Problem sets, topic mappings, and dataset files
-└── assets/                 # Static assets (images, icons, and diagrams)
-```
 
 ---
 
