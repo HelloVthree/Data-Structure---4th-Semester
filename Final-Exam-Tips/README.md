@@ -11,6 +11,8 @@ The Final Exam for this course is **extremely challenging**. Historical data sho
 2. **Focus on Problem-Solving Skills over Hours Studied**
    - Studying **+100 hours** will not guarantee a passing grade if you cannot apply the concepts on the spot. 
    - On the exam, if you cannot figure out the algorithmic logic or edge cases to solve a question, you will get it wrong regardless of how long you prepared. Practice active problem-solving, not passive reading.
+3. **Don't Ignore Theoretical Concepts**
+   - It's Not Just Coding: Not all final exam questions are code-based! Expect a strong mix of conceptual questions covering time/space complexity analysis (Big-O), theoretical data structure mechanics, edge cases, and algorithmic trade-offs.
 
 ---
 
