@@ -6,6 +6,5 @@ public:
 
         if(x1 == y2 || x1 == y1) return x1;
         return x2;
-        
     }
 };
